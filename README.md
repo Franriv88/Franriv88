@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Franriv88 GitHub stats](https://github-readme-stats.vercel.app/api?username=Franriv88&show_icons=true&theme=radical)
+![Franriv88 GitHub stats](https://github-readme-stats.vercel.app/api?username=Franriv88&show_icons=true&theme=dark)
 
 
 
