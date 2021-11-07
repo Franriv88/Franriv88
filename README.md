@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Franriv88 GitHub stats](https://github-readme-stats.vercel.app/api?username=Franriv88&show_icons=true&theme=dark)
 
+![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
 
 <!--
