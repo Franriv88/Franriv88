@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **ask me how to make mistakes XD**
 
-- 📫 How to reach me **franriv2388@gmail.com**
+- 📫 How to reach me **frivasv2388@gmail.com**
 
 - ⚡ Fun fact **I think I'm thirsty for knowledge in general**
 
