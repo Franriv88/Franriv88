@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, PHP and Java in my High School**
 
-- 💬 Ask me about **ask me how to make mistakes XD**
+- 💬 Ask me about: **ask me how to make mistakes XD**
 
 - 📫 How to reach me **frivasv2388@gmail.com**
 
